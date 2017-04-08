@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/util.js"],"names":["util","foo"],"mappings":";;;kBAAwBA,I;AAAT,SAASA,IAAT,CAAcC,GAAd,EAAmB;AAChC,SAAO,EAAEA,QAAF,EAAP;AACD","file":"util.js","sourcesContent":["export default function util(foo) {\n  return { foo };\n}\n"]}
